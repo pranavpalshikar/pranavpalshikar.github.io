@@ -6,4 +6,4 @@ description: Pranav Palshikar
 Something about me
 
 # Assignments
-[Click here to access Assignment 1, The Rainbow.](assignment)
+[Assignment 1](assignment1)
